@@ -1,0 +1,7 @@
+# Django-related
+.venv/
+*.pyc
+*.sqlite3
+__pycache__
+**/migrations/**
+**/__init__.py
